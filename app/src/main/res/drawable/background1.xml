@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" android:thickness="1dp"
+    android:innerRadiusRatio="@integer/material_motion_duration_long_2"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="2dp" android:color="#0D6A11"/>
+    <corners android:radius="10dp"/>
+
+
+</shape>
